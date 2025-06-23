@@ -10,18 +10,6 @@ An interactive and informative web application for planning a brewery tour in Br
 - **Responsive Design**: Mobile-first design that works great on smartphones and laptops
 - **Expandable Details**: Click on brewery cards to see more information and website links
 
-## Tour Stops
-
-1. **Brussels South Station** (14:00) - Meeting point
-2. **Cantillon** (14:30) - Traditional lambic brewery
-3. **Brasserie l'Ermitage** (15:45) - Artisanal brewery
-4. **Mazette** (17:00) - Modern craft beer bar
-5. **Brasserie Surrealiste** (18:15) - Experimental brewery
-6. **BBP Dansaert** (19:30) - Innovative brewery
-7. **Brasserie De La Senne** (20:45) - Traditional hoppy ales
-8. **La Source** (21:30) - Final stop
-9. **Brussels North Station** (22:00) - End point
-
 ## Tech Stack
 
 - **React 19** with TypeScript
