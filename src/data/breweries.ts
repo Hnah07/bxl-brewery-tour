@@ -128,8 +128,8 @@ export const breweries: Brewery[] = [
 export const tourInfo = {
   title: "Brussels Brewery Tour",
   date: "Saturday, July 5th",
-  startTime: "13:11 (Arrival at Brussels South Station)",
-  endTime: "23:08 (Departure from Brussels North Station)",
+  startTime: "13:11 (Arrival BXL South Station)",
+  endTime: "23:08 (Departure BXL North Station)",
   description:
     "Join us for an epic journey through Brussels' finest breweries! We'll explore traditional lambic makers, modern craft breweries, and everything in between. Come thirsty and ready for some of the best beers Brussels has to offer!",
 };
